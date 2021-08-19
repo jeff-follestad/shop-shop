@@ -20,4 +20,4 @@ const useStoreContext = () => {
   return useContext(StoreContext);
 };
 
-export { StoreProvider, useStoreC//ontext };
+export { StoreProvider, useStoreContext };
