@@ -2,9 +2,9 @@
 
 ## User Story
 
-`AS a senior engineer working on an e-commerce platform
+*`AS a senior engineer working on an e-commerce platform
 I WANT my platform to use Redux to manage global state instead of the Context API
-SO THAT my website's state management is taken out of the React ecosystem.`
+SO THAT my website's state management is taken out of the React ecosystem.`*
 
 ## Functionality Overview
 
@@ -32,4 +32,3 @@ Shop-shop now dispatches actions with Redux instead of the Context API.
 
 [Checkout with Stripe Screenshot](images/Stripe.com.png)
 
-[Heroku deployment](https://mighty-castle-98806.herokuapp.com/)
