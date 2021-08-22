@@ -8,17 +8,15 @@ SO THAT my website's state management is taken out of the React ecosystem.`*
 
 ## Functionality Overview
 
-Shop-Shop is an e-commerce platform that uses Redux instead of Context API to manage global state.
+Shop-Shop is an e-commerce platform that has been updated to use Redux instead of Context API to manage global state.
 
 *`Redux is a pattern and library for managing and updating application state, using events called "actions". It serves as a centralized store for state that needs to be used across your entire application, with rules ensuring that the state can only be updated in a predictable fashion.`*
 
-Shop-Shop's React front end access the store via a Redux provider.
+After refactoring, Shop-Shop now uses a Redux store in place of the Context API to determine changes to its global state. 
 
-After refactoring, Shop-Shop now uses a Redux store in place of the Context API to determine changes to its global state.
+Shop-Shop's React front end now accesses the store via a Redux provider.
 
-Shop-Shop has been updated to leverage Redux instead of the Context API to extract state data from the store.
-
-Shop-shop now dispatches actions with Redux instead of the Context API.
+Shop-Shop has been updated to leverage Redux instead of the Context API to extract state data from the store, and dispatches actions with Redux instead of the Context API.
 
 ## Shop-Shop Site and Screenshots
 
