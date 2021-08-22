@@ -11,11 +11,10 @@
     "seed": "cd server && npm run seed",
     "heroku-postbuild": "cd client && npm run build"
   },
-  "author": "",
+  "author": "Jeff Follestad",
   "license": "MIT",
   "dependencies": {
     "@reduxjs/toolkit": "^1.4.0",
-    "@stripe/stripe-js": "^1.17.1",
     "if-env": "^1.0.4",
     "react-redux": "^7.2.1",
     "redux": "^4.0.5"
