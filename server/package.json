@@ -21,7 +21,8 @@
     "mongoose": "^5.9.7",
     "react-redux": "^7.2.1",
     "redux": "^4.0.5",
-    "stripe": "^8.83.0"
+    "stripe": "^8.83.0",
+    "graphql": "^14.6.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.2",
